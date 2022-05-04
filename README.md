@@ -4,7 +4,7 @@ Image Classification using ANN and CNN.
 Using Tensorflow 2, keras, numpy, matplotlib and sklearn python lib.
 `%tensorflow_version 2.x`
 
-`import tensorflow as tf
+`import tensorflow as tf\n
 from tensorflow import keras
 from keras import datasets, layers, models
 import numpy as np
